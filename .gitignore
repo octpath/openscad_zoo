@@ -3,3 +3,6 @@
 !*.md
 !*.ipynb
 !*.py
+!dockerfile
+
+!T01_排水口のザル/
